@@ -10,7 +10,7 @@ DESCRIPTION :-
     through visualization and charts.
 
 3. Actionable Insights and Recommendations: End goal is to Share Valuable insights and actionable information that can
-   drive strategic decision-making and support the supermarkets goals for growth, efficiency, and customer stisfaction.
+   drive strategic decision-making and support the supermarkets goals for growth, efficiency, and customer satisfaction.
 
    LEARNING :-
    Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, acuurate
