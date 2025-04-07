@@ -3,7 +3,7 @@ OBJECTIVE :-
 The success of a business by utilizing data analysis technique, specifically focusing on the
 time series analysis to provide valuable insights.
 DESCRIPTION :-
-1. Deshboard Creation: Identify the KPIs, design an intuitive and visully appealing dashboard, add interactive
+1. Dashboard Creation: Identify the KPIs, design an intuitive and visully appealing dashboard, add interactive
    visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
 
 2. Data Analysis: Provide valuable insight to business entities regarding the effectiveness of their sales strategies 
